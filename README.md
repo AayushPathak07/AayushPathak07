@@ -2,7 +2,9 @@
 
 ### Building SaaS products, integration systems, and production-ready software used by real businesses.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushPathak07&label=Profile views&color=0e75b6&style=flat" alt="AayushPathak07" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AayushPathak07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 - 🔭 I'm currently working on **Working on backend systems, ERP and Shopify integrations, real-time data pipelines, and automation tools for scalable and reliable business operations.**
 
