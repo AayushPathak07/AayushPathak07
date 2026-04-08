@@ -6,15 +6,15 @@
   <img src="https://komarev.com/ghpvc/?username=AayushPathak07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently building an **AI-powered PIM/EIM (Entity Information Management) system** that integrates with retailers and third-party platforms to manage product, media, and service data — featuring AI-based enrichment, automated ingestion pipelines, and scalable publishing workflows.
+- 🔭 **Currently building** an AI-powered **PIM/EIM (Entity Information Management) platform** that integrates with retailers and third-party systems to manage product, media, and service data. The system focuses on AI-driven enrichment, automated ingestion pipelines, and scalable publishing workflows.
 
-- 👯 I'm looking to collaborate on **Open to collaborating on SaaS products, developer tools, APIs, and integration-heavy systems involving automation, Shopify, ERP, and scalable backend infrastructure.**
+- 👯 **Open to collaborating on** SaaS products, developer tools, APIs, and integration-heavy systems — especially projects involving automation, Shopify, ERP systems, and scalable backend infrastructure.
 
-- 💬 Ask me about **Software Integration Engineer building scalable backend systems, ERP integrations, and real-time data pipelines. Focused on SaaS, automation, and production-ready software.**
+- 💬 **Ask me about** backend engineering, system integrations, ERP connectivity, and real-time data pipelines. I specialize in building production-ready systems that scale.
 
-- 📫 How to reach me **aayushcp19@gmail.com**
+- 📫 **Reach me at:** aayushcp19@gmail.com
 
-- ⚡ Fun fact **I enjoy solving messy real-world problems by building clean, scalable systems, especially when it involves automation, integrations, and improving business workflows.**
+- ⚡ **Fun fact:** I enjoy turning messy, real-world business problems into clean, scalable systems — especially through automation and smart integrations.
 
 - 👨‍💻 All of my projects are available at **[https://aayushpathak.com](https://aayushpathak.com)**
 
