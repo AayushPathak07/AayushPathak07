@@ -59,3 +59,6 @@
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AayushPathak07" alt="GitHub Streak" /></a>
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
